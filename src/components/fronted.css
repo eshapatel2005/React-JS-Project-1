@@ -23,6 +23,7 @@ button{
     height: 32px;
     color: white;
     font-weight: 500;
+    cursor: pointer;
 }
 
 .img1{
@@ -58,6 +59,7 @@ nav ul{
     display: flex;
     list-style: none;
     gap:24px;
+    cursor: pointer;
 }
 
 .hero-content{
@@ -75,18 +77,19 @@ nav ul{
 
 .hero h1{
     font-weight: 800;
-    font-size: 108px;
+    font-size: 100px;
     line-height: 102px;
 }
 
 .hero p{
-    font-weight: 600;
+    font-weight: 601;
     color:var(--grey);
 }
 
 .hero-btn{
     display: flex;
     gap:40px;
+    cursor: pointer;
 }
 
 .secondary-btn{
